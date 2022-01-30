@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MAD_ASSIGNMENT_3</string>
+    <string name="reg">Register</string>
+    <string name="already">Already have an account?</string>
+    <string name="c_reg">EatsAlot</string>
+    <string name="c_login">EatsAlot Login</string>
+    <string name="c_name_details">EatsAlot Details</string>
+    <string name="forget">Forgotten Password?</string>
+    <string name="login">Login</string>
+    <string name="dont">Don\'t have an account?</string>
+    <string name="signup">Sign up</string>
+    <string name="signin">Sign in</string>
+    <string name="map">Map</string>
+    <string name="c_main">EatsAlot Home</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="re_enter">Re-enter Password</string>
+    <string name="todo">TODO</string>
+    <string name="welcome">WELCOME</string>
+
+    <string name="google_maps_key"></string>
+
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">40dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="row_padding_vertical">10dp</dimen>
+
+    <!--dimes for design 3-->
+    <dimen name="headerTextSize">22sp</dimen>
+    <dimen name="newsMoreTextSize">12sp</dimen>
+    <dimen name="loginCardRadius">20dp</dimen>
+    <dimen name="loginViewsMargin">20dp</dimen>
+    <dimen name="signup_text_margin_top">10dp</dimen>
+
+</resources>
